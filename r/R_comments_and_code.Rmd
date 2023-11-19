@@ -1,0 +1,17 @@
+---
+title: "Comments_and_code"
+author: "Rahul Singh"
+date: "2023-11-19"
+output: html_document
+---
+
+## Code
+
+```{r print integers}
+seq(from = 1, to = 10)
+```
+
+## Comments
+
+
+This R code will print integers from 1 to 10.
